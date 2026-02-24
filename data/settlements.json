@@ -1,0 +1,1490 @@
+[
+  {
+    "transaction_id": "TXN-EFY-001",
+    "amount": "30400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-17T20:18:37"
+  },
+  {
+    "transaction_id": "TXN-OXXO-001",
+    "amount": "1841.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-17T19:13:22"
+  },
+  {
+    "transaction_id": "TXN-EFY-002",
+    "amount": "356200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-18T05:16:13"
+  },
+  {
+    "transaction_id": "TXN-OXXO-002",
+    "amount": "405.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-18T05:55:51"
+  },
+  {
+    "transaction_id": "TXN-OXXO-003",
+    "amount": "619.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-17T13:02:40"
+  },
+  {
+    "transaction_id": "TXN-OXXO-004",
+    "amount": "1766.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T20:25:34"
+  },
+  {
+    "transaction_id": "TXN-OXXO-005",
+    "amount": "2055.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T04:20:41"
+  },
+  {
+    "transaction_id": "TXN-EFY-003",
+    "amount": "55800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T13:36:07"
+  },
+  {
+    "transaction_id": "TXN-EFY-004",
+    "amount": "474600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T12:09:49"
+  },
+  {
+    "transaction_id": "TXN-OXXO-006",
+    "amount": "2070.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T04:41:04"
+  },
+  {
+    "transaction_id": "TXN-OXXO-007",
+    "amount": "1183.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T10:10:58"
+  },
+  {
+    "transaction_id": "TXN-OXXO-008",
+    "amount": "3508.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T15:01:01"
+  },
+  {
+    "transaction_id": "TXN-EFY-005",
+    "amount": "19400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T00:33:42"
+  },
+  {
+    "transaction_id": "TXN-EFY-006",
+    "amount": "101300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T11:54:56"
+  },
+  {
+    "transaction_id": "TXN-EFY-007",
+    "amount": "425800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T10:07:13"
+  },
+  {
+    "transaction_id": "TXN-OXXO-009",
+    "amount": "3113.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T17:34:32"
+  },
+  {
+    "transaction_id": "TXN-OXXO-010",
+    "amount": "209.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T04:14:07"
+  },
+  {
+    "transaction_id": "TXN-OXXO-011",
+    "amount": "4697.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T19:19:58"
+  },
+  {
+    "transaction_id": "TXN-OXXO-012",
+    "amount": "3943.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T16:21:49"
+  },
+  {
+    "transaction_id": "TXN-OXXO-013",
+    "amount": "1697.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T18:38:20"
+  },
+  {
+    "transaction_id": "TXN-OXXO-014",
+    "amount": "1041.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T06:50:11"
+  },
+  {
+    "transaction_id": "TXN-OXXO-015",
+    "amount": "631.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T14:17:11"
+  },
+  {
+    "transaction_id": "TXN-OXXO-016",
+    "amount": "2331.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T23:10:24"
+  },
+  {
+    "transaction_id": "TXN-OXXO-017",
+    "amount": "3924.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T20:12:37"
+  },
+  {
+    "transaction_id": "TXN-OXXO-018",
+    "amount": "493.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T05:43:21"
+  },
+  {
+    "transaction_id": "TXN-EFY-008",
+    "amount": "213600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T03:52:24"
+  },
+  {
+    "transaction_id": "TXN-OXXO-019",
+    "amount": "667.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T01:12:33"
+  },
+  {
+    "transaction_id": "TXN-OXXO-020",
+    "amount": "814.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T01:01:47"
+  },
+  {
+    "transaction_id": "TXN-OXXO-021",
+    "amount": "530.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T19:06:20"
+  },
+  {
+    "transaction_id": "TXN-OXXO-022",
+    "amount": "4602.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T01:04:36"
+  },
+  {
+    "transaction_id": "TXN-EFY-009",
+    "amount": "59900.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T12:27:34"
+  },
+  {
+    "transaction_id": "TXN-OXXO-023",
+    "amount": "4210.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T02:32:29"
+  },
+  {
+    "transaction_id": "TXN-OXXO-024",
+    "amount": "4716.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T22:10:01"
+  },
+  {
+    "transaction_id": "TXN-OXXO-025",
+    "amount": "2186.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T06:45:19"
+  },
+  {
+    "transaction_id": "TXN-EFY-010",
+    "amount": "384500.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T14:04:46"
+  },
+  {
+    "transaction_id": "TXN-EFY-011",
+    "amount": "70000.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T22:32:56"
+  },
+  {
+    "transaction_id": "TXN-OXXO-026",
+    "amount": "2384.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:27:55"
+  },
+  {
+    "transaction_id": "TXN-EFY-012",
+    "amount": "464300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T12:26:46"
+  },
+  {
+    "transaction_id": "TXN-EFY-013",
+    "amount": "463200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T15:44:50"
+  },
+  {
+    "transaction_id": "TXN-EFY-014",
+    "amount": "226200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T13:15:41"
+  },
+  {
+    "transaction_id": "TXN-OXXO-027",
+    "amount": "2316.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T11:03:42"
+  },
+  {
+    "transaction_id": "TXN-EFY-015",
+    "amount": "461900.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T08:02:26"
+  },
+  {
+    "transaction_id": "TXN-OXXO-028",
+    "amount": "3074.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T07:06:39"
+  },
+  {
+    "transaction_id": "TXN-EFY-016",
+    "amount": "42600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T08:56:17"
+  },
+  {
+    "transaction_id": "TXN-OXXO-029",
+    "amount": "3379.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T13:41:36"
+  },
+  {
+    "transaction_id": "TXN-EFY-017",
+    "amount": "347700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T08:54:13"
+  },
+  {
+    "transaction_id": "TXN-EFY-018",
+    "amount": "213200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T10:01:44"
+  },
+  {
+    "transaction_id": "TXN-OXXO-030",
+    "amount": "1684.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T22:31:13"
+  },
+  {
+    "transaction_id": "TXN-EFY-019",
+    "amount": "336400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T05:39:24"
+  },
+  {
+    "transaction_id": "TXN-OXXO-031",
+    "amount": "4442.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T16:36:25"
+  },
+  {
+    "transaction_id": "TXN-EFY-020",
+    "amount": "227400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T00:09:36"
+  },
+  {
+    "transaction_id": "TXN-EFY-021",
+    "amount": "428900.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T08:45:14"
+  },
+  {
+    "transaction_id": "TXN-OXXO-032",
+    "amount": "4460.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T08:27:21"
+  },
+  {
+    "transaction_id": "TXN-OXXO-033",
+    "amount": "2754.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T18:27:02"
+  },
+  {
+    "transaction_id": "TXN-OXXO-034",
+    "amount": "3395.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T18:56:13"
+  },
+  {
+    "transaction_id": "TXN-EFY-022",
+    "amount": "152500.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T19:22:58"
+  },
+  {
+    "transaction_id": "TXN-OXXO-035",
+    "amount": "4801.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T19:46:46"
+  },
+  {
+    "transaction_id": "TXN-OXXO-036",
+    "amount": "1440.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T23:07:52"
+  },
+  {
+    "transaction_id": "TXN-EFY-023",
+    "amount": "202400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T14:16:25"
+  },
+  {
+    "transaction_id": "TXN-EFY-024",
+    "amount": "69600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T04:58:39"
+  },
+  {
+    "transaction_id": "TXN-OXXO-037",
+    "amount": "1258.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T23:19:24"
+  },
+  {
+    "transaction_id": "TXN-OXXO-038",
+    "amount": "1490.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T10:49:24"
+  },
+  {
+    "transaction_id": "TXN-OXXO-039",
+    "amount": "3856.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T00:50:38"
+  },
+  {
+    "transaction_id": "TXN-EFY-025",
+    "amount": "423500.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:51:57"
+  },
+  {
+    "transaction_id": "TXN-OXXO-040",
+    "amount": "2075.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T08:10:50"
+  },
+  {
+    "transaction_id": "TXN-OXXO-041",
+    "amount": "2390.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T00:43:01"
+  },
+  {
+    "transaction_id": "TXN-OXXO-042",
+    "amount": "1301.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T21:01:10"
+  },
+  {
+    "transaction_id": "TXN-OXXO-043",
+    "amount": "3491.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T16:40:14"
+  },
+  {
+    "transaction_id": "TXN-OXXO-044",
+    "amount": "2931.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T22:08:37"
+  },
+  {
+    "transaction_id": "TXN-EFY-026",
+    "amount": "457300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T07:10:13"
+  },
+  {
+    "transaction_id": "TXN-OXXO-045",
+    "amount": "2803.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T03:19:23"
+  },
+  {
+    "transaction_id": "TXN-OXXO-046",
+    "amount": "4425.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T15:08:19"
+  },
+  {
+    "transaction_id": "TXN-OXXO-047",
+    "amount": "3832.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T02:15:30"
+  },
+  {
+    "transaction_id": "TXN-EFY-027",
+    "amount": "320500.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T12:05:54"
+  },
+  {
+    "transaction_id": "TXN-OXXO-048",
+    "amount": "4468.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T02:15:45"
+  },
+  {
+    "transaction_id": "TXN-OXXO-049",
+    "amount": "2075.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T00:18:59"
+  },
+  {
+    "transaction_id": "TXN-OXXO-050",
+    "amount": "1835.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T10:19:51"
+  },
+  {
+    "transaction_id": "TXN-EFY-028",
+    "amount": "144100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T18:46:53"
+  },
+  {
+    "transaction_id": "TXN-EFY-029",
+    "amount": "172400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T23:07:43"
+  },
+  {
+    "transaction_id": "TXN-EFY-030",
+    "amount": "109100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T22:49:46"
+  },
+  {
+    "transaction_id": "TXN-OXXO-051",
+    "amount": "4194.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T21:26:36"
+  },
+  {
+    "transaction_id": "TXN-EFY-031",
+    "amount": "386600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T05:04:46"
+  },
+  {
+    "transaction_id": "TXN-EFY-032",
+    "amount": "450800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T21:17:44"
+  },
+  {
+    "transaction_id": "TXN-EFY-033",
+    "amount": "80900.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T23:26:14"
+  },
+  {
+    "transaction_id": "TXN-OXXO-052",
+    "amount": "285.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T12:05:43"
+  },
+  {
+    "transaction_id": "TXN-OXXO-053",
+    "amount": "4933.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T09:12:48"
+  },
+  {
+    "transaction_id": "TXN-OXXO-054",
+    "amount": "3379.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T23:24:26"
+  },
+  {
+    "transaction_id": "TXN-EFY-034",
+    "amount": "86200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T01:39:14"
+  },
+  {
+    "transaction_id": "TXN-OXXO-055",
+    "amount": "4399.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T13:23:53"
+  },
+  {
+    "transaction_id": "TXN-OXXO-056",
+    "amount": "1938.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T01:59:00"
+  },
+  {
+    "transaction_id": "TXN-OXXO-057",
+    "amount": "4016.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:28:27"
+  },
+  {
+    "transaction_id": "TXN-EFY-035",
+    "amount": "252600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T01:57:12"
+  },
+  {
+    "transaction_id": "TXN-OXXO-058",
+    "amount": "496.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T18:17:52"
+  },
+  {
+    "transaction_id": "TXN-EFY-036",
+    "amount": "480200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T20:11:01"
+  },
+  {
+    "transaction_id": "TXN-EFY-037",
+    "amount": "401300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T12:34:47"
+  },
+  {
+    "transaction_id": "TXN-OXXO-059",
+    "amount": "4660.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T13:21:46"
+  },
+  {
+    "transaction_id": "TXN-OXXO-060",
+    "amount": "1898.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T04:59:13"
+  },
+  {
+    "transaction_id": "TXN-OXXO-061",
+    "amount": "543.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T04:45:57"
+  },
+  {
+    "transaction_id": "TXN-EFY-038",
+    "amount": "138600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T00:20:25"
+  },
+  {
+    "transaction_id": "TXN-OXXO-062",
+    "amount": "2435.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T20:20:13"
+  },
+  {
+    "transaction_id": "TXN-EFY-039",
+    "amount": "226700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:10:58"
+  },
+  {
+    "transaction_id": "TXN-OXXO-063",
+    "amount": "1891.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T13:12:34"
+  },
+  {
+    "transaction_id": "TXN-EFY-040",
+    "amount": "497400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T17:55:17"
+  },
+  {
+    "transaction_id": "TXN-OXXO-064",
+    "amount": "3347.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T14:11:04"
+  },
+  {
+    "transaction_id": "TXN-OXXO-065",
+    "amount": "2690.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T17:14:44"
+  },
+  {
+    "transaction_id": "TXN-EFY-041",
+    "amount": "230700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T00:04:53"
+  },
+  {
+    "transaction_id": "TXN-OXXO-066",
+    "amount": "4845.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T04:59:05"
+  },
+  {
+    "transaction_id": "TXN-OXXO-067",
+    "amount": "906.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T17:02:35"
+  },
+  {
+    "transaction_id": "TXN-EFY-042",
+    "amount": "40000.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T16:01:44"
+  },
+  {
+    "transaction_id": "TXN-OXXO-068",
+    "amount": "59.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T09:37:58"
+  },
+  {
+    "transaction_id": "TXN-EFY-043",
+    "amount": "418300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T17:10:43"
+  },
+  {
+    "transaction_id": "TXN-OXXO-069",
+    "amount": "4020.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T13:46:44"
+  },
+  {
+    "transaction_id": "TXN-OXXO-070",
+    "amount": "4574.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T22:55:53"
+  },
+  {
+    "transaction_id": "TXN-EFY-044",
+    "amount": "136100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T08:25:17"
+  },
+  {
+    "transaction_id": "TXN-OXXO-071",
+    "amount": "3918.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T14:35:14"
+  },
+  {
+    "transaction_id": "TXN-EFY-045",
+    "amount": "121800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T16:45:25"
+  },
+  {
+    "transaction_id": "TXN-EFY-046",
+    "amount": "228800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T19:42:47"
+  },
+  {
+    "transaction_id": "TXN-OXXO-072",
+    "amount": "1267.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:39:07"
+  },
+  {
+    "transaction_id": "TXN-OXXO-073",
+    "amount": "2686.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T12:15:33"
+  },
+  {
+    "transaction_id": "TXN-OXXO-074",
+    "amount": "3924.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T01:26:42"
+  },
+  {
+    "transaction_id": "TXN-EFY-047",
+    "amount": "113400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T01:56:52"
+  },
+  {
+    "transaction_id": "TXN-OXXO-075",
+    "amount": "3793.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T23:50:35"
+  },
+  {
+    "transaction_id": "TXN-OXXO-076",
+    "amount": "2221.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T03:07:21"
+  },
+  {
+    "transaction_id": "TXN-EFY-048",
+    "amount": "447100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T23:18:55"
+  },
+  {
+    "transaction_id": "TXN-OXXO-077",
+    "amount": "610.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T10:36:51"
+  },
+  {
+    "transaction_id": "TXN-EFY-049",
+    "amount": "92300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T07:17:56"
+  },
+  {
+    "transaction_id": "TXN-OXXO-078",
+    "amount": "2986.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T05:23:08"
+  },
+  {
+    "transaction_id": "TXN-OXXO-079",
+    "amount": "3183.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T01:15:07"
+  },
+  {
+    "transaction_id": "TXN-EFY-050",
+    "amount": "386400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T05:59:40"
+  },
+  {
+    "transaction_id": "TXN-OXXO-080",
+    "amount": "655.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T04:01:06"
+  },
+  {
+    "transaction_id": "TXN-OXXO-081",
+    "amount": "2524.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T11:47:28"
+  },
+  {
+    "transaction_id": "TXN-OXXO-082",
+    "amount": "2473.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T19:49:52"
+  },
+  {
+    "transaction_id": "TXN-OXXO-083",
+    "amount": "451.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T19:50:37"
+  },
+  {
+    "transaction_id": "TXN-EFY-051",
+    "amount": "189400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T15:20:33"
+  },
+  {
+    "transaction_id": "TXN-OXXO-084",
+    "amount": "372.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T20:30:02"
+  },
+  {
+    "transaction_id": "TXN-EFY-052",
+    "amount": "277600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T23:27:16"
+  },
+  {
+    "transaction_id": "TXN-OXXO-085",
+    "amount": "2282.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T10:35:40"
+  },
+  {
+    "transaction_id": "TXN-EFY-053",
+    "amount": "104300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T15:18:03"
+  },
+  {
+    "transaction_id": "TXN-EFY-054",
+    "amount": "309600.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T04:08:47"
+  },
+  {
+    "transaction_id": "TXN-EFY-055",
+    "amount": "224700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T16:05:00"
+  },
+  {
+    "transaction_id": "TXN-OXXO-086",
+    "amount": "4649.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T01:13:38"
+  },
+  {
+    "transaction_id": "TXN-EFY-056",
+    "amount": "344400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T13:18:34"
+  },
+  {
+    "transaction_id": "TXN-OXXO-087",
+    "amount": "4453.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T13:07:15"
+  },
+  {
+    "transaction_id": "TXN-OXXO-088",
+    "amount": "1315.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T12:34:18"
+  },
+  {
+    "transaction_id": "TXN-EFY-057",
+    "amount": "187900.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T01:49:17"
+  },
+  {
+    "transaction_id": "TXN-EFY-058",
+    "amount": "303800.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T16:33:47"
+  },
+  {
+    "transaction_id": "TXN-EFY-059",
+    "amount": "499100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T14:29:32"
+  },
+  {
+    "transaction_id": "TXN-OXXO-089",
+    "amount": "4590.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T22:39:52"
+  },
+  {
+    "transaction_id": "TXN-EFY-060",
+    "amount": "12300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T06:45:43"
+  },
+  {
+    "transaction_id": "TXN-OXXO-090",
+    "amount": "261.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T15:31:13"
+  },
+  {
+    "transaction_id": "TXN-OXXO-091",
+    "amount": "479.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T05:29:17"
+  },
+  {
+    "transaction_id": "TXN-EFY-061",
+    "amount": "430400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-23T12:06:58"
+  },
+  {
+    "transaction_id": "TXN-EFY-062",
+    "amount": "437100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T03:06:47"
+  },
+  {
+    "transaction_id": "TXN-OXXO-092",
+    "amount": "934.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T13:04:25"
+  },
+  {
+    "transaction_id": "TXN-OXXO-093",
+    "amount": "1083.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T13:41:45"
+  },
+  {
+    "transaction_id": "TXN-OXXO-094",
+    "amount": "3766.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T03:22:32"
+  },
+  {
+    "transaction_id": "TXN-EFY-063",
+    "amount": "362300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T20:17:28"
+  },
+  {
+    "transaction_id": "TXN-EFY-064",
+    "amount": "266000.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T16:07:59"
+  },
+  {
+    "transaction_id": "TXN-OXXO-095",
+    "amount": "749.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T14:55:02"
+  },
+  {
+    "transaction_id": "TXN-OXXO-096",
+    "amount": "4650.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T07:02:58"
+  },
+  {
+    "transaction_id": "TXN-EFY-065",
+    "amount": "52100.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T03:35:54"
+  },
+  {
+    "transaction_id": "TXN-EFY-066",
+    "amount": "193700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T16:17:41"
+  },
+  {
+    "transaction_id": "TXN-OXXO-097",
+    "amount": "3565.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T13:06:28"
+  },
+  {
+    "transaction_id": "TXN-EFY-067",
+    "amount": "229000.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T05:00:12"
+  },
+  {
+    "transaction_id": "TXN-OXXO-098",
+    "amount": "1223.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T00:50:17"
+  },
+  {
+    "transaction_id": "TXN-EFY-068",
+    "amount": "186200.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T06:22:30"
+  },
+  {
+    "transaction_id": "TXN-EFY-069",
+    "amount": "498400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T11:11:26"
+  },
+  {
+    "transaction_id": "TXN-OXXO-099",
+    "amount": "3679.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T14:18:52"
+  },
+  {
+    "transaction_id": "TXN-OXXO-100",
+    "amount": "2877.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-22T23:05:07"
+  },
+  {
+    "transaction_id": "TXN-OXXO-101",
+    "amount": "1856.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-18T23:11:31"
+  },
+  {
+    "transaction_id": "TXN-OXXO-102",
+    "amount": "2143.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T23:24:34"
+  },
+  {
+    "transaction_id": "TXN-OXXO-103",
+    "amount": "1935.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T03:08:13"
+  },
+  {
+    "transaction_id": "TXN-EFY-070",
+    "amount": "367300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T18:42:55"
+  },
+  {
+    "transaction_id": "TXN-OXXO-104",
+    "amount": "3471.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T18:46:33"
+  },
+  {
+    "transaction_id": "TXN-EFY-071",
+    "amount": "306400.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T02:54:14"
+  },
+  {
+    "transaction_id": "TXN-OXXO-105",
+    "amount": "2591.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T07:51:43"
+  },
+  {
+    "transaction_id": "TXN-OXXO-106",
+    "amount": "4227.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-18T22:49:25"
+  },
+  {
+    "transaction_id": "TXN-OXXO-107",
+    "amount": "2146.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T15:40:24"
+  },
+  {
+    "transaction_id": "TXN-EFY-072",
+    "amount": "414700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-19T02:17:02"
+  },
+  {
+    "transaction_id": "TXN-EFY-073",
+    "amount": "274700.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-18T18:47:43"
+  },
+  {
+    "transaction_id": "TXN-EFY-115",
+    "amount": "352300.00",
+    "currency": "COP",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T16:56:05"
+  },
+  {
+    "transaction_id": "TXN-OXXO-185",
+    "amount": "4108.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T11:50:15"
+  },
+  {
+    "transaction_id": "TXN-OXXO-186",
+    "amount": "2494.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T09:26:54"
+  },
+  {
+    "transaction_id": "TXN-OXXO-187",
+    "amount": "4500.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T18:00:52"
+  },
+  {
+    "transaction_id": "TXN-OXXO-188",
+    "amount": "972.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-21T07:20:32"
+  },
+  {
+    "transaction_id": "TXN-OXXO-189",
+    "amount": "2811.00",
+    "currency": "MXN",
+    "status": "COMPLETED",
+    "source_system": "bank_settlement",
+    "settled_at": "2026-02-20T23:38:38"
+  }
+]

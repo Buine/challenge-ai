@@ -1,0 +1,2042 @@
+[
+  {
+    "transaction_id": "TXN-EFY-001",
+    "amount": "30400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-16T16:08:14",
+    "store_id": "EFECTY-STORE-024"
+  },
+  {
+    "transaction_id": "TXN-OXXO-001",
+    "amount": "1841.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-15T14:56:17",
+    "store_id": "OXXO-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-EFY-002",
+    "amount": "356200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-16T12:02:21",
+    "store_id": "EFECTY-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-OXXO-002",
+    "amount": "405.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-15T11:25:45",
+    "store_id": "OXXO-STORE-047"
+  },
+  {
+    "transaction_id": "TXN-OXXO-003",
+    "amount": "619.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-15T15:16:51",
+    "store_id": "OXXO-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-OXXO-004",
+    "amount": "1766.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T13:19:14",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-OXXO-005",
+    "amount": "2055.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:55:33",
+    "store_id": "OXXO-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-EFY-003",
+    "amount": "55800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T18:20:46",
+    "store_id": "EFECTY-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-EFY-004",
+    "amount": "474600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T12:12:02",
+    "store_id": "EFECTY-STORE-029"
+  },
+  {
+    "transaction_id": "TXN-OXXO-006",
+    "amount": "2070.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:37:28",
+    "store_id": "OXXO-STORE-048"
+  },
+  {
+    "transaction_id": "TXN-OXXO-007",
+    "amount": "1183.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T16:50:59",
+    "store_id": "OXXO-STORE-033"
+  },
+  {
+    "transaction_id": "TXN-OXXO-008",
+    "amount": "3508.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T15:12:11",
+    "store_id": "OXXO-STORE-039"
+  },
+  {
+    "transaction_id": "TXN-EFY-005",
+    "amount": "19400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T22:47:14",
+    "store_id": "EFECTY-STORE-022"
+  },
+  {
+    "transaction_id": "TXN-EFY-006",
+    "amount": "101300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T14:07:57",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-EFY-007",
+    "amount": "425800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T17:43:13",
+    "store_id": "EFECTY-STORE-030"
+  },
+  {
+    "transaction_id": "TXN-OXXO-009",
+    "amount": "3113.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T21:17:56",
+    "store_id": "OXXO-STORE-049"
+  },
+  {
+    "transaction_id": "TXN-OXXO-010",
+    "amount": "209.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T12:18:55",
+    "store_id": "OXXO-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-OXXO-011",
+    "amount": "4697.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T16:00:38",
+    "store_id": "OXXO-STORE-006"
+  },
+  {
+    "transaction_id": "TXN-OXXO-012",
+    "amount": "3943.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T11:14:50",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-OXXO-013",
+    "amount": "1697.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T11:26:41",
+    "store_id": "OXXO-STORE-046"
+  },
+  {
+    "transaction_id": "TXN-OXXO-014",
+    "amount": "1041.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T02:35:51",
+    "store_id": "OXXO-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-OXXO-015",
+    "amount": "631.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T18:49:34",
+    "store_id": "OXXO-STORE-046"
+  },
+  {
+    "transaction_id": "TXN-OXXO-016",
+    "amount": "2331.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T12:27:09",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-OXXO-017",
+    "amount": "3924.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T23:31:11",
+    "store_id": "OXXO-STORE-027"
+  },
+  {
+    "transaction_id": "TXN-OXXO-018",
+    "amount": "493.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T02:48:48",
+    "store_id": "OXXO-STORE-044"
+  },
+  {
+    "transaction_id": "TXN-EFY-008",
+    "amount": "213600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T07:37:23",
+    "store_id": "EFECTY-STORE-007"
+  },
+  {
+    "transaction_id": "TXN-OXXO-019",
+    "amount": "667.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T20:30:34",
+    "store_id": "OXXO-STORE-029"
+  },
+  {
+    "transaction_id": "TXN-OXXO-020",
+    "amount": "814.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T01:43:08",
+    "store_id": "OXXO-STORE-049"
+  },
+  {
+    "transaction_id": "TXN-OXXO-021",
+    "amount": "530.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T06:22:33",
+    "store_id": "OXXO-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-OXXO-022",
+    "amount": "4602.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T10:50:05",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-EFY-009",
+    "amount": "59900.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T13:34:25",
+    "store_id": "EFECTY-STORE-024"
+  },
+  {
+    "transaction_id": "TXN-OXXO-023",
+    "amount": "4210.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T23:16:45",
+    "store_id": "OXXO-STORE-006"
+  },
+  {
+    "transaction_id": "TXN-OXXO-024",
+    "amount": "4716.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T18:13:54",
+    "store_id": "OXXO-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-OXXO-025",
+    "amount": "2186.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T18:00:21",
+    "store_id": "OXXO-STORE-014"
+  },
+  {
+    "transaction_id": "TXN-EFY-010",
+    "amount": "384500.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T13:37:57",
+    "store_id": "EFECTY-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-EFY-011",
+    "amount": "70000.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T01:45:08",
+    "store_id": "EFECTY-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-OXXO-026",
+    "amount": "2384.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T15:56:41",
+    "store_id": "OXXO-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-EFY-012",
+    "amount": "464300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T18:17:45",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-EFY-013",
+    "amount": "463200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T05:18:07",
+    "store_id": "EFECTY-STORE-005"
+  },
+  {
+    "transaction_id": "TXN-EFY-014",
+    "amount": "226200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T20:38:54",
+    "store_id": "EFECTY-STORE-017"
+  },
+  {
+    "transaction_id": "TXN-OXXO-027",
+    "amount": "2316.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-21T04:28:49",
+    "store_id": "OXXO-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-EFY-015",
+    "amount": "461900.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T04:25:44",
+    "store_id": "EFECTY-STORE-023"
+  },
+  {
+    "transaction_id": "TXN-OXXO-028",
+    "amount": "3074.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T05:06:11",
+    "store_id": "OXXO-STORE-038"
+  },
+  {
+    "transaction_id": "TXN-EFY-016",
+    "amount": "42600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T00:55:30",
+    "store_id": "EFECTY-STORE-029"
+  },
+  {
+    "transaction_id": "TXN-OXXO-029",
+    "amount": "3379.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T02:19:48",
+    "store_id": "OXXO-STORE-040"
+  },
+  {
+    "transaction_id": "TXN-EFY-017",
+    "amount": "347700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T19:20:57",
+    "store_id": "EFECTY-STORE-001"
+  },
+  {
+    "transaction_id": "TXN-EFY-018",
+    "amount": "213200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T15:40:01",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-030",
+    "amount": "1684.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T04:41:48",
+    "store_id": "OXXO-STORE-030"
+  },
+  {
+    "transaction_id": "TXN-EFY-019",
+    "amount": "336400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T16:32:14",
+    "store_id": "EFECTY-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-OXXO-031",
+    "amount": "4442.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T18:01:40",
+    "store_id": "OXXO-STORE-022"
+  },
+  {
+    "transaction_id": "TXN-EFY-020",
+    "amount": "227400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T13:11:23",
+    "store_id": "EFECTY-STORE-002"
+  },
+  {
+    "transaction_id": "TXN-EFY-021",
+    "amount": "428900.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T20:31:38",
+    "store_id": "EFECTY-STORE-004"
+  },
+  {
+    "transaction_id": "TXN-OXXO-032",
+    "amount": "4460.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:15:57",
+    "store_id": "OXXO-STORE-044"
+  },
+  {
+    "transaction_id": "TXN-OXXO-033",
+    "amount": "2754.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T07:54:08",
+    "store_id": "OXXO-STORE-040"
+  },
+  {
+    "transaction_id": "TXN-OXXO-034",
+    "amount": "3395.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T12:49:38",
+    "store_id": "OXXO-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-EFY-022",
+    "amount": "152500.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T03:21:50",
+    "store_id": "EFECTY-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-OXXO-035",
+    "amount": "4801.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T22:33:21",
+    "store_id": "OXXO-STORE-039"
+  },
+  {
+    "transaction_id": "TXN-OXXO-036",
+    "amount": "1440.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T16:45:00",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-EFY-023",
+    "amount": "202400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T07:12:02",
+    "store_id": "EFECTY-STORE-022"
+  },
+  {
+    "transaction_id": "TXN-EFY-024",
+    "amount": "69600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T19:38:41",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-OXXO-037",
+    "amount": "1258.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T06:01:20",
+    "store_id": "OXXO-STORE-042"
+  },
+  {
+    "transaction_id": "TXN-OXXO-038",
+    "amount": "1490.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T22:51:43",
+    "store_id": "OXXO-STORE-045"
+  },
+  {
+    "transaction_id": "TXN-OXXO-039",
+    "amount": "3856.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T09:36:49",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-EFY-025",
+    "amount": "423500.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T11:48:00",
+    "store_id": "EFECTY-STORE-014"
+  },
+  {
+    "transaction_id": "TXN-OXXO-040",
+    "amount": "2075.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T08:55:12",
+    "store_id": "OXXO-STORE-041"
+  },
+  {
+    "transaction_id": "TXN-OXXO-041",
+    "amount": "2390.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T22:47:23",
+    "store_id": "OXXO-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-OXXO-042",
+    "amount": "1301.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T05:08:14",
+    "store_id": "OXXO-STORE-046"
+  },
+  {
+    "transaction_id": "TXN-OXXO-043",
+    "amount": "3491.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T07:17:07",
+    "store_id": "OXXO-STORE-025"
+  },
+  {
+    "transaction_id": "TXN-OXXO-044",
+    "amount": "2931.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:22:44",
+    "store_id": "OXXO-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-EFY-026",
+    "amount": "457300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T20:38:17",
+    "store_id": "EFECTY-STORE-026"
+  },
+  {
+    "transaction_id": "TXN-OXXO-045",
+    "amount": "2803.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T19:24:03",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-OXXO-046",
+    "amount": "4425.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T07:18:52",
+    "store_id": "OXXO-STORE-002"
+  },
+  {
+    "transaction_id": "TXN-OXXO-047",
+    "amount": "3832.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T16:05:56",
+    "store_id": "OXXO-STORE-012"
+  },
+  {
+    "transaction_id": "TXN-EFY-027",
+    "amount": "320500.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T23:59:22",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-048",
+    "amount": "4468.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T19:03:20",
+    "store_id": "OXXO-STORE-004"
+  },
+  {
+    "transaction_id": "TXN-OXXO-049",
+    "amount": "2075.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T12:51:58",
+    "store_id": "OXXO-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-OXXO-050",
+    "amount": "1835.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T02:16:37",
+    "store_id": "OXXO-STORE-030"
+  },
+  {
+    "transaction_id": "TXN-EFY-028",
+    "amount": "144100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T03:48:26",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-EFY-029",
+    "amount": "172400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:28:19",
+    "store_id": "EFECTY-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-EFY-030",
+    "amount": "109100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T06:09:49",
+    "store_id": "EFECTY-STORE-026"
+  },
+  {
+    "transaction_id": "TXN-OXXO-051",
+    "amount": "4194.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T05:58:17",
+    "store_id": "OXXO-STORE-042"
+  },
+  {
+    "transaction_id": "TXN-EFY-031",
+    "amount": "386600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T04:02:08",
+    "store_id": "EFECTY-STORE-023"
+  },
+  {
+    "transaction_id": "TXN-EFY-032",
+    "amount": "450800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T10:12:23",
+    "store_id": "EFECTY-STORE-025"
+  },
+  {
+    "transaction_id": "TXN-EFY-033",
+    "amount": "80900.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T01:07:53",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-052",
+    "amount": "285.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T01:54:49",
+    "store_id": "OXXO-STORE-032"
+  },
+  {
+    "transaction_id": "TXN-OXXO-053",
+    "amount": "4933.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T08:24:55",
+    "store_id": "OXXO-STORE-045"
+  },
+  {
+    "transaction_id": "TXN-OXXO-054",
+    "amount": "3379.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:33:17",
+    "store_id": "OXXO-STORE-032"
+  },
+  {
+    "transaction_id": "TXN-EFY-034",
+    "amount": "86200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T10:57:22",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-OXXO-055",
+    "amount": "4399.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T21:31:12",
+    "store_id": "OXXO-STORE-023"
+  },
+  {
+    "transaction_id": "TXN-OXXO-056",
+    "amount": "1938.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T14:19:30",
+    "store_id": "OXXO-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-OXXO-057",
+    "amount": "4016.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T05:17:30",
+    "store_id": "OXXO-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-EFY-035",
+    "amount": "252600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T15:58:07",
+    "store_id": "EFECTY-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-OXXO-058",
+    "amount": "496.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T11:40:48",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-EFY-036",
+    "amount": "480200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:20:03",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-EFY-037",
+    "amount": "401300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T09:01:26",
+    "store_id": "EFECTY-STORE-004"
+  },
+  {
+    "transaction_id": "TXN-OXXO-059",
+    "amount": "4660.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T10:34:31",
+    "store_id": "OXXO-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-OXXO-060",
+    "amount": "1898.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:44:11",
+    "store_id": "OXXO-STORE-050"
+  },
+  {
+    "transaction_id": "TXN-OXXO-061",
+    "amount": "543.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T16:09:16",
+    "store_id": "OXXO-STORE-040"
+  },
+  {
+    "transaction_id": "TXN-EFY-038",
+    "amount": "138600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T00:12:42",
+    "store_id": "EFECTY-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-OXXO-062",
+    "amount": "2435.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T10:35:37",
+    "store_id": "OXXO-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-EFY-039",
+    "amount": "226700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T15:35:43",
+    "store_id": "EFECTY-STORE-026"
+  },
+  {
+    "transaction_id": "TXN-OXXO-063",
+    "amount": "1891.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T06:22:56",
+    "store_id": "OXXO-STORE-042"
+  },
+  {
+    "transaction_id": "TXN-EFY-040",
+    "amount": "497400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T20:50:31",
+    "store_id": "EFECTY-STORE-024"
+  },
+  {
+    "transaction_id": "TXN-OXXO-064",
+    "amount": "3347.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T10:19:23",
+    "store_id": "OXXO-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-OXXO-065",
+    "amount": "2690.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T19:04:26",
+    "store_id": "OXXO-STORE-039"
+  },
+  {
+    "transaction_id": "TXN-EFY-041",
+    "amount": "230700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-21T01:29:51",
+    "store_id": "EFECTY-STORE-019"
+  },
+  {
+    "transaction_id": "TXN-OXXO-066",
+    "amount": "4845.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:36:18",
+    "store_id": "OXXO-STORE-028"
+  },
+  {
+    "transaction_id": "TXN-OXXO-067",
+    "amount": "906.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T03:12:31",
+    "store_id": "OXXO-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-EFY-042",
+    "amount": "40000.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T10:27:53",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-OXXO-068",
+    "amount": "59.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T07:01:51",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-EFY-043",
+    "amount": "418300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T04:21:36",
+    "store_id": "EFECTY-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-OXXO-069",
+    "amount": "4020.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T23:24:42",
+    "store_id": "OXXO-STORE-008"
+  },
+  {
+    "transaction_id": "TXN-OXXO-070",
+    "amount": "4574.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-21T03:06:39",
+    "store_id": "OXXO-STORE-027"
+  },
+  {
+    "transaction_id": "TXN-EFY-044",
+    "amount": "136100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T22:33:42",
+    "store_id": "EFECTY-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-OXXO-071",
+    "amount": "3918.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T05:26:17",
+    "store_id": "OXXO-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-EFY-045",
+    "amount": "121800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T23:44:42",
+    "store_id": "EFECTY-STORE-028"
+  },
+  {
+    "transaction_id": "TXN-EFY-046",
+    "amount": "228800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-21T03:30:52",
+    "store_id": "EFECTY-STORE-027"
+  },
+  {
+    "transaction_id": "TXN-OXXO-072",
+    "amount": "1267.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T04:09:36",
+    "store_id": "OXXO-STORE-029"
+  },
+  {
+    "transaction_id": "TXN-OXXO-073",
+    "amount": "2686.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T17:52:36",
+    "store_id": "OXXO-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-OXXO-074",
+    "amount": "3924.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T02:00:04",
+    "store_id": "OXXO-STORE-046"
+  },
+  {
+    "transaction_id": "TXN-EFY-047",
+    "amount": "113400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T21:07:49",
+    "store_id": "EFECTY-STORE-017"
+  },
+  {
+    "transaction_id": "TXN-OXXO-075",
+    "amount": "3793.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T16:24:48",
+    "store_id": "OXXO-STORE-001"
+  },
+  {
+    "transaction_id": "TXN-OXXO-076",
+    "amount": "2221.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T23:16:02",
+    "store_id": "OXXO-STORE-022"
+  },
+  {
+    "transaction_id": "TXN-EFY-048",
+    "amount": "447100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T04:43:05",
+    "store_id": "EFECTY-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-OXXO-077",
+    "amount": "610.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T10:44:15",
+    "store_id": "OXXO-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-EFY-049",
+    "amount": "92300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T05:54:34",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-OXXO-078",
+    "amount": "2986.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T09:36:25",
+    "store_id": "OXXO-STORE-024"
+  },
+  {
+    "transaction_id": "TXN-OXXO-079",
+    "amount": "3183.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T21:15:38",
+    "store_id": "OXXO-STORE-040"
+  },
+  {
+    "transaction_id": "TXN-EFY-050",
+    "amount": "386400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:39:44",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-080",
+    "amount": "655.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T13:39:32",
+    "store_id": "OXXO-STORE-029"
+  },
+  {
+    "transaction_id": "TXN-OXXO-081",
+    "amount": "2524.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T06:40:18",
+    "store_id": "OXXO-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-OXXO-082",
+    "amount": "2473.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T12:14:09",
+    "store_id": "OXXO-STORE-045"
+  },
+  {
+    "transaction_id": "TXN-OXXO-083",
+    "amount": "451.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:30:10",
+    "store_id": "OXXO-STORE-039"
+  },
+  {
+    "transaction_id": "TXN-EFY-051",
+    "amount": "189400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T03:04:29",
+    "store_id": "EFECTY-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-OXXO-084",
+    "amount": "372.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T02:59:14",
+    "store_id": "OXXO-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-EFY-052",
+    "amount": "277600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T09:42:07",
+    "store_id": "EFECTY-STORE-024"
+  },
+  {
+    "transaction_id": "TXN-OXXO-085",
+    "amount": "2282.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T11:27:57",
+    "store_id": "OXXO-STORE-011"
+  },
+  {
+    "transaction_id": "TXN-EFY-053",
+    "amount": "104300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T16:54:32",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-EFY-054",
+    "amount": "309600.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T02:23:27",
+    "store_id": "EFECTY-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-EFY-055",
+    "amount": "224700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T22:15:10",
+    "store_id": "EFECTY-STORE-019"
+  },
+  {
+    "transaction_id": "TXN-OXXO-086",
+    "amount": "4649.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T22:11:34",
+    "store_id": "OXXO-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-EFY-056",
+    "amount": "344400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T22:42:00",
+    "store_id": "EFECTY-STORE-004"
+  },
+  {
+    "transaction_id": "TXN-OXXO-087",
+    "amount": "4453.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T15:33:02",
+    "store_id": "OXXO-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-088",
+    "amount": "1315.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:01:14",
+    "store_id": "OXXO-STORE-027"
+  },
+  {
+    "transaction_id": "TXN-EFY-057",
+    "amount": "187900.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T08:24:44",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-EFY-058",
+    "amount": "303800.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T10:41:58",
+    "store_id": "EFECTY-STORE-002"
+  },
+  {
+    "transaction_id": "TXN-EFY-059",
+    "amount": "499100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T15:01:44",
+    "store_id": "EFECTY-STORE-001"
+  },
+  {
+    "transaction_id": "TXN-OXXO-089",
+    "amount": "4590.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:28:50",
+    "store_id": "OXXO-STORE-014"
+  },
+  {
+    "transaction_id": "TXN-EFY-060",
+    "amount": "12300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T00:31:21",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-090",
+    "amount": "261.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-21T04:05:58",
+    "store_id": "OXXO-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-091",
+    "amount": "479.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T17:41:46",
+    "store_id": "OXXO-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-EFY-061",
+    "amount": "430400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T14:44:11",
+    "store_id": "EFECTY-STORE-019"
+  },
+  {
+    "transaction_id": "TXN-EFY-062",
+    "amount": "437100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T00:11:36",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-OXXO-092",
+    "amount": "934.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T17:54:32",
+    "store_id": "OXXO-STORE-032"
+  },
+  {
+    "transaction_id": "TXN-OXXO-093",
+    "amount": "1083.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T03:30:45",
+    "store_id": "OXXO-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-OXXO-094",
+    "amount": "3766.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T17:41:25",
+    "store_id": "OXXO-STORE-033"
+  },
+  {
+    "transaction_id": "TXN-EFY-063",
+    "amount": "362300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T04:34:30",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-EFY-064",
+    "amount": "266000.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T18:21:38",
+    "store_id": "EFECTY-STORE-014"
+  },
+  {
+    "transaction_id": "TXN-OXXO-095",
+    "amount": "749.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T21:01:49",
+    "store_id": "OXXO-STORE-006"
+  },
+  {
+    "transaction_id": "TXN-OXXO-096",
+    "amount": "4650.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T14:04:36",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-EFY-065",
+    "amount": "52100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T23:51:30",
+    "store_id": "EFECTY-STORE-010"
+  },
+  {
+    "transaction_id": "TXN-EFY-066",
+    "amount": "193700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T22:39:06",
+    "store_id": "EFECTY-STORE-028"
+  },
+  {
+    "transaction_id": "TXN-OXXO-097",
+    "amount": "3565.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T07:39:23",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-EFY-067",
+    "amount": "229000.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T14:10:19",
+    "store_id": "EFECTY-STORE-001"
+  },
+  {
+    "transaction_id": "TXN-OXXO-098",
+    "amount": "1223.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T13:16:17",
+    "store_id": "OXXO-STORE-037"
+  },
+  {
+    "transaction_id": "TXN-EFY-068",
+    "amount": "186200.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T12:36:45",
+    "store_id": "EFECTY-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-EFY-069",
+    "amount": "498400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T22:58:39",
+    "store_id": "EFECTY-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-OXXO-099",
+    "amount": "3679.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T18:26:01",
+    "store_id": "OXXO-STORE-043"
+  },
+  {
+    "transaction_id": "TXN-OXXO-100",
+    "amount": "2877.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T18:36:53",
+    "store_id": "OXXO-STORE-028"
+  },
+  {
+    "transaction_id": "TXN-OXXO-101",
+    "amount": "1856.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T13:22:47",
+    "store_id": "OXXO-STORE-026"
+  },
+  {
+    "transaction_id": "TXN-OXXO-102",
+    "amount": "2143.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:33:10",
+    "store_id": "OXXO-STORE-019"
+  },
+  {
+    "transaction_id": "TXN-OXXO-103",
+    "amount": "1935.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T10:08:13",
+    "store_id": "OXXO-STORE-033"
+  },
+  {
+    "transaction_id": "TXN-EFY-070",
+    "amount": "367300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T03:41:18",
+    "store_id": "EFECTY-STORE-001"
+  },
+  {
+    "transaction_id": "TXN-OXXO-104",
+    "amount": "3471.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T03:11:13",
+    "store_id": "OXXO-STORE-019"
+  },
+  {
+    "transaction_id": "TXN-EFY-071",
+    "amount": "306400.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T05:59:29",
+    "store_id": "EFECTY-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-OXXO-105",
+    "amount": "2591.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T04:31:01",
+    "store_id": "OXXO-STORE-048"
+  },
+  {
+    "transaction_id": "TXN-OXXO-106",
+    "amount": "4227.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T15:00:17",
+    "store_id": "OXXO-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-OXXO-107",
+    "amount": "2146.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:36:01",
+    "store_id": "OXXO-STORE-013"
+  },
+  {
+    "transaction_id": "TXN-EFY-072",
+    "amount": "414700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T20:41:33",
+    "store_id": "EFECTY-STORE-015"
+  },
+  {
+    "transaction_id": "TXN-EFY-073",
+    "amount": "274700.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T13:16:38",
+    "store_id": "EFECTY-STORE-028"
+  },
+  {
+    "transaction_id": "TXN-OXXO-166",
+    "amount": "3019.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T19:26:08",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-OXXO-167",
+    "amount": "3739.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T07:09:24",
+    "store_id": "OXXO-STORE-049"
+  },
+  {
+    "transaction_id": "TXN-EFY-106",
+    "amount": "107300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T11:10:15",
+    "store_id": "EFECTY-STORE-005"
+  },
+  {
+    "transaction_id": "TXN-OXXO-168",
+    "amount": "2827.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T12:52:09",
+    "store_id": "OXXO-STORE-036"
+  },
+  {
+    "transaction_id": "TXN-EFY-107",
+    "amount": "173000.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T09:04:16",
+    "store_id": "EFECTY-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-OXXO-169",
+    "amount": "421.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-20T02:33:33",
+    "store_id": "OXXO-STORE-003"
+  },
+  {
+    "transaction_id": "TXN-OXXO-170",
+    "amount": "3930.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:31:17",
+    "store_id": "OXXO-STORE-034"
+  },
+  {
+    "transaction_id": "TXN-EFY-108",
+    "amount": "432300.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T17:35:08",
+    "store_id": "EFECTY-STORE-005"
+  },
+  {
+    "transaction_id": "TXN-EFY-111",
+    "amount": "284592.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T11:44:59",
+    "store_id": "EFECTY-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-OXXO-179",
+    "amount": "2027.62",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T13:23:01",
+    "store_id": "OXXO-STORE-018"
+  },
+  {
+    "transaction_id": "TXN-OXXO-180",
+    "amount": "3771.15",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T00:51:38",
+    "store_id": "OXXO-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-OXXO-181",
+    "amount": "4184.07",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T01:04:39",
+    "store_id": "OXXO-STORE-025"
+  },
+  {
+    "transaction_id": "TXN-OXXO-182",
+    "amount": "648.21",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T05:44:05",
+    "store_id": "OXXO-STORE-023"
+  },
+  {
+    "transaction_id": "TXN-EFY-112",
+    "amount": "266915.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T14:16:13",
+    "store_id": "EFECTY-STORE-030"
+  },
+  {
+    "transaction_id": "TXN-OXXO-183",
+    "amount": "2341.40",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T15:03:42",
+    "store_id": "OXXO-STORE-004"
+  },
+  {
+    "transaction_id": "TXN-OXXO-184",
+    "amount": "3958.58",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T05:27:52",
+    "store_id": "OXXO-STORE-007"
+  },
+  {
+    "transaction_id": "TXN-EFY-113",
+    "amount": "395564.04",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T21:09:36",
+    "store_id": "EFECTY-STORE-016"
+  },
+  {
+    "transaction_id": "TXN-EFY-114",
+    "amount": "83200.00",
+    "currency": "COP",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T19:45:00",
+    "store_id": "EFECTY-STORE-021"
+  },
+  {
+    "transaction_id": "TXN-EFY-116",
+    "amount": "342100.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T13:29:12",
+    "store_id": "EFECTY-STORE-027"
+  },
+  {
+    "transaction_id": "TXN-OXXO-190",
+    "amount": "831.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-17T10:53:44",
+    "store_id": "OXXO-STORE-012"
+  },
+  {
+    "transaction_id": "TXN-EFY-117",
+    "amount": "15500.00",
+    "currency": "COP",
+    "payment_method": "EFECTY",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T16:35:18",
+    "store_id": "EFECTY-STORE-009"
+  },
+  {
+    "transaction_id": "TXN-OXXO-191",
+    "amount": "2750.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-18T07:02:30",
+    "store_id": "OXXO-STORE-020"
+  },
+  {
+    "transaction_id": "TXN-OXXO-192",
+    "amount": "2995.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T22:39:26",
+    "store_id": "OXXO-STORE-045"
+  },
+  {
+    "transaction_id": "TXN-OXXO-193",
+    "amount": "3371.00",
+    "currency": "MXN",
+    "payment_method": "OXXO",
+    "status": "CONFIRMED",
+    "source_system": "payment_processor",
+    "paid_at": "2026-02-19T09:52:44",
+    "store_id": "OXXO-STORE-044"
+  }
+]
