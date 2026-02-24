@@ -1,3 +1,5 @@
+from decimal import Decimal
+
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
@@ -7,7 +9,7 @@ from app.schemas import IssueResponse, SourceRecord, TransactionView
 
 def _model_to_dict(obj) -> dict:
     return {
-        c.name: (str(v) if hasattr(v, "isoformat") or isinstance(v, __import__("decimal").Decimal) else v)
+        c.name: (str(v) if hasattr(v, "isoformat") or isinstance(v, Decimal) else v)
         for c in obj.__table__.columns
         if (v := getattr(obj, c.name)) is not None and c.name not in ("id",)
     }

@@ -61,7 +61,6 @@ class ReconciliationIssue(Base):
     amount_at_risk: Mapped[Decimal] = mapped_column(Numeric(14, 2), default=0)
     payment_method: Mapped[str | None] = mapped_column(String(20), nullable=True, index=True)
     currency: Mapped[str | None] = mapped_column(String(3), nullable=True)
-    metadata_json: Mapped[str | None] = mapped_column(Text, nullable=True)
     suggested_resolution: Mapped[str | None] = mapped_column(Text, nullable=True)
 
     __table_args__ = (

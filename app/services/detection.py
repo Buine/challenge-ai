@@ -35,7 +35,7 @@ def run_detection(db: Session) -> DetectionRunResponse:
     all_issues += detect_orphaned_payments(payments, voucher_ids)
     all_issues += detect_stuck_pending(vouchers, confirmed_ids, now)
     all_issues += detect_amount_mismatch(pairs)
-    all_issues += detect_zombie_completions(settlements, confirmed_ids)
+    all_issues += detect_zombie_completions(settlements, confirmed_ids, voucher_map)
     all_issues += detect_post_expiration_payments(pairs)
 
     db.bulk_save_objects(all_issues)

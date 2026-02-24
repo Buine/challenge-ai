@@ -457,6 +457,22 @@ class TestZombieCompletions:
         assert len(issues) == 1
         assert issues[0].transaction_id == "TXN-C2"
 
+    def test_zombie_resolves_payment_method_from_voucher_map(self):
+        settlement = make_settlement(transaction_id="TXN-Z-PM")
+        voucher = make_voucher(transaction_id="TXN-Z-PM", payment_method="EFECTY")
+        voucher_map = {"TXN-Z-PM": voucher}
+        issues = detect_zombie_completions([settlement], set(), voucher_map)
+
+        assert len(issues) == 1
+        assert issues[0].payment_method == "EFECTY"
+
+    def test_zombie_without_voucher_map_has_none_payment_method(self):
+        settlement = make_settlement(transaction_id="TXN-Z-NO-V")
+        issues = detect_zombie_completions([settlement], set())
+
+        assert len(issues) == 1
+        assert issues[0].payment_method is None
+
 
 class TestPostExpirationPayments:
     def test_payment_1_minute_after_expiry_detected(self):
